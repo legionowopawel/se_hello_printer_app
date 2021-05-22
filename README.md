@@ -1,12 +1,13 @@
 # Simple Flask App
 
-Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
+Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć xxx
 o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 - W projekcie wykorzystamy virtual environment, dla utworzenia hermetycznego środowisko dla aplikacji:
 
   ```
-  # tworzymy hermetyczne środowisko dla bibliotek aplikacji:
+  # tworzymy hermetyczne środowisko dla bibliotek aplikacji
+  wszystkie np. biblioteki będą zainstalowane w tym srodowisku a nie w calym Linuxie:
   $ python3 -m venv .venv
 
   # aktywowanie hermetycznego środowiska
@@ -47,7 +48,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   ```
   ...
 
-  # aktywacja 
+  # aktywacja
   $ source .venv/bin/activate
   ```
 
