@@ -11,5 +11,18 @@ test:
 run:
 	PYTHONPATH=. FLASK_APP=hello_world flask run
 
-docker_build:
+docker_build: lint
 	docker build -t hello-world-printer .
+
+
+docker_run: docker_build
+	docker run \
+		--name hello-world-printer-dev \
+		-p 5000:5000 \
+		-d hello-world-printer
+
+#zebrałem komendy które się wpisuje do roota
+test_tworzenia_dockera:
+	docker stop hello-world-printer-dev
+	docker rm hello-world-printer-dev
+	make docker_run
