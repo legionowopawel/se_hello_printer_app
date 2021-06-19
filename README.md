@@ -95,3 +95,7 @@ na https://app.statuscake.com/
 ustawiłem informację o wysyłanie alertu.
 
 ![Alt Text](https://travis-ci.com/legionowopawel/se_hello_printer_app.svg?branch=master)
+
+
+lub wygenerowany w Trwavis jaka Markdown
+[![Build Status](https://travis-ci.com/legionowopawel/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/legionowopawel/se_hello_printer_app)
