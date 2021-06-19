@@ -91,3 +91,5 @@ asdfasdfgit
   $ docker images
   $ docker rmi
   ```
+na https://app.statuscake.com/
+ustawiłem informację o wysyłanie alertu.
