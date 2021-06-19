@@ -102,11 +102,17 @@ ustawiłem informację o wysyłanie alertu.
 
 https://app.statuscake.com/button/index.php?Track=TRACK_ID&Days=1&Design=1
 
-Wstawić końcówkę z linku https://app.statuscake.com/UptimeStatus.php?tid=6003170
-tj. 6003170
-zamiast TRACK_ID
-https://app.statuscake.com/button/index.php?Track=6003170&Days=1&Design=1
 
-analogicznie utworzyć link
+1. Wejdź na strone Status Cake w "Uptime Monitering"
+2. skopiuj url i niech to bedzie LINK1 
+
+Wstawić końcówkę z tego swojego url https://app.statuscake.com/UptimeStatus.php?tid=6003170
+tj. 6003170
+zamiast TRACK_ID  do linku 
+https://app.statuscake.com/button/index.php?Track=6003170&Days=1&Design=1
+Utworzyłeś w ten sposób LINK2
+
+powyższe utworzeone linki podstaw do wzoru:
+[![Build Status](LINK1](LINK2)
 [![Build Status](https://app.statuscake.com/button/index.php?Track=6003170&Days=1&Design=1)](https://app.statuscake.com/UptimeStatus.php?tid=6003170)
 
