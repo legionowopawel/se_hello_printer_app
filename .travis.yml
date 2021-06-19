@@ -10,3 +10,7 @@ script:
 
 after_success:
   - make docker_push
+deploy:
+provider: heroku
+app: polar-depths-47183
+api_key: ${HEROKU_API_KEY}
