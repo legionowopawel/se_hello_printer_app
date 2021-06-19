@@ -119,3 +119,8 @@ powyższe utworzeone linki podstaw do wzoru:
 -->
 [![Build Status](https://app.statuscake.com/button/index.php?Track=6003170&Days=1&Design=1)](https://app.statuscake.com/UptimeStatus.php?tid=6003170)
 
+status Pauliny:
+[![Build Status](https://app.statuscake.com/button/index.php?Track=6003179&Days=1&Design=1)](https://app.statuscake.com/UptimeStatus.php?tid=6003179)
+
+
+
