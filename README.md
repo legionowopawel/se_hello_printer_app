@@ -93,3 +93,5 @@ asdfasdfgit
   ```
 na https://app.statuscake.com/
 ustawiłem informację o wysyłanie alertu.
+
+https://travis-ci.com/legionowopawel/se_hello_printer_app.svg?branch=master
