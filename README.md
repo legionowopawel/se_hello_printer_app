@@ -113,7 +113,9 @@ https://app.statuscake.com/button/index.php?Track=6003170&Days=1&Design=1
 Utworzyłeś w ten sposób LINK2
 
 powyższe utworzeone linki podstaw do wzoru:
-# [![Build Status](LINK1](LINK2)"#
 
+<!--
+# [![Build Status](LINK1](LINK2)"
+-->
 [![Build Status](https://app.statuscake.com/button/index.php?Track=6003170&Days=1&Design=1)](https://app.statuscake.com/UptimeStatus.php?tid=6003170)
 
