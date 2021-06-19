@@ -97,3 +97,13 @@ ustawiłem informację o wysyłanie alertu.
 
  wygenerowany w Trwavis Markdown powoduje że po naciśnięciu poniższego linku przejdziesz do Travis i zrobisz test
 [![Build Status](https://travis-ci.com/legionowopawel/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/legionowopawel/se_hello_printer_app)
+
+
+
+https://app.statuscake.com/button/index.php?Track=TRACK_ID&Days=1&Design=1
+
+Wstawić końcówkę z linku https://app.statuscake.com/UptimeStatus.php?tid=6003170
+tj. 6003170
+zamiast TRACK_ID
+https://app.statuscake.com/button/index.php?Track=6003170&Days=1&Design=1
+
