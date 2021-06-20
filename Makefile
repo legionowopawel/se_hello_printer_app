@@ -51,4 +51,3 @@ test_cov:
 test_xunit:
 	PYTHONPATH=. py.test -s --cov=. --cov-report xml --junit-xml=test_results.xml
 
-	
